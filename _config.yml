@@ -1,6 +1,6 @@
 name: inventor
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73106
 typography_spectrum: 0
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#a8acac'
     - '#231f20'
     - '#545254'
-  brandStrength: 0.7918668990023434
-  lightness: 0.693350343266502
-  saturation: 0.6978204001206905
-  rhythmicContrast: 0.3657471565529704
+  brandStrength: 0.9375
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
