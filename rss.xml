@@ -4,7 +4,7 @@
         <description><![CDATA[inventor]]></description>
         <link>https://thegrid.ai/inventor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 11:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 12:47:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inventor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Autodesk Inventor]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/inventor/autodesk-inventor/index.html</link>
             <guid isPermaLink="false">f3bac5b6-b62b-426b-a641-f7fb2b90425f</guid>
             <pubDate>Tue, 12 Jan 2016 10:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inventor 2016 R3]]></title>
+            <description><![CDATA[<article><h1>Inventor 2016 R3</h1><p>Nonostante sia da poco che è uscita la R2 ecco che già si presenta la R3. Questa volta non ci sono fix, ovvero non ci son problemi risolti, solo funzionalità in più, e come sempre sono riservate ai possessori di contratto di sottoscrizione o noleggio.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19949c83fee63f17abdc9b770a25440cf40ebb98.png"></article>]]></description>
+            <link>https://thegrid.ai/inventor/inventor-2016-r3/index.html</link>
+            <guid isPermaLink="false">625dc816-31fb-46bb-a0fb-40035bf28abd</guid>
+            <pubDate>Tue, 12 Jan 2016 12:46:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inventor 2016 R2]]></title>
