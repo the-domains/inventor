@@ -1,0 +1,28 @@
+name: inventor
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#dddedd'
+    - '#a8acac'
+    - '#231f20'
+    - '#545254'
+  brandStrength: 0.7918668990023434
+  lightness: 0.693350343266502
+  saturation: 0.6978204001206905
+  rhythmicContrast: 0.3657471565529704
+purpose: []
