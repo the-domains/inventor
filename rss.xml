@@ -4,8 +4,15 @@
         <description><![CDATA[Inventor News]]></description>
         <link>http://inventor.strazzabosco.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 08:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 08:44:33 GMT</lastBuildDate>
         <atom:link href="http://inventor.strazzabosco.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inventor 2016 R3]]></title>
+            <description><![CDATA[<article><h1></h1><h2>Publish Designs in IFC</h2><p>Altra piccola ma interessante funzionalità introdotta per migliorare la comunicazione in ambito BIM.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19949c83fee63f17abdc9b770a25440cf40ebb98.png"></article>]]></description>
+            <link>http://inventor.strazzabosco.com/inventor-2016-r3/index.html</link>
+            <guid isPermaLink="false">625dc816-31fb-46bb-a0fb-40035bf28abd</guid>
+            <pubDate>Fri, 15 Jan 2016 08:44:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inventor 2016 R2]]></title>
             <description><![CDATA[<article><h1>Inventor 2016 R2</h1><h2>Shape Generator</h2><p>Autodesk Inventor nella versione 2016 è stato aggiornato alla versione R2, il cui accesso è riservato ai possessori di contratto di sottoscrizione o noleggio. Oltre al normale service pack, ovvero la risoluzione dei problemi noti, questa versione contiene alcune interessanti funzionalità tra cui:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cab0b0b961decdd89ce89ee5eacb4a894b3113da.png"></article>]]></description>
