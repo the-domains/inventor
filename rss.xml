@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Inventor News]]></title>
+        <description><![CDATA[Inventor News]]></description>
+        <link>http://inventor.strazzabosco.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 08:42:57 GMT</lastBuildDate>
+        <atom:link href="http://inventor.strazzabosco.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inventor 2016 R2]]></title>
+            <description><![CDATA[<article><h1>Inventor 2016 R2</h1><h2>Shape Generator</h2><p>Autodesk Inventor nella versione 2016 è stato aggiornato alla versione R2, il cui accesso è riservato ai possessori di contratto di sottoscrizione o noleggio. Oltre al normale service pack, ovvero la risoluzione dei problemi noti, questa versione contiene alcune interessanti funzionalità tra cui:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8b9f07f1604ce5855dfbf69775ddb4446c7b5a7.png"></article>]]></description>
+            <link>http://inventor.strazzabosco.com/inventor-2016-r2/index.html</link>
+            <guid isPermaLink="false">bf7a896c-33f4-4206-8255-b21948032ae6</guid>
+            <pubDate>Fri, 15 Jan 2016 08:42:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
