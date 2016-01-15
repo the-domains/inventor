@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T09:11:27.718Z'
-dateModified: '2016-01-15T09:11:27.536Z'
+datePublished: '2016-01-15T09:13:45.968Z'
+dateModified: '2016-01-15T09:13:42.342Z'
 title: Autodesk Inventor
 author: []
 sourcePath: _posts/2016-01-12-autodesk-inventor.md
@@ -25,4 +25,4 @@ _type: Blurb
 # Autodesk Inventor
 ![Autodesk Inventor](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d14371a2-3fc5-49af-acf1-e62c2f3e6f3f.png)
 
-Di seguito potrete trovare le novità di Autodesk Inventor. Scorrete verso il basso per leggere i post.
+Di seguito potrete trovare le novità di Autodesk Inventor. Scorrete verso il basso per leggere i post. Cliccare sul titolo dei contenuti per leggere l'intero post.
