@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T08:46:57.287Z'
-dateModified: '2016-01-15T08:46:57.083Z'
+datePublished: '2016-01-15T09:11:26.961Z'
+dateModified: '2016-01-15T09:11:18.398Z'
 title: Autodesk Inventor
 author: []
 sourcePath: _posts/2016-01-12-autodesk-inventor.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: autodesk-inventor/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Autodesk Inventor
