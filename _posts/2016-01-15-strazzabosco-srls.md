@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T08:56:35.632Z'
-dateModified: '2016-01-15T08:56:19.444Z'
+datePublished: '2016-01-15T09:09:12.579Z'
+dateModified: '2016-01-15T09:09:08.716Z'
 title: Strazzabosco Srls
 author: []
+sourcePath: _posts/2016-01-15-strazzabosco-srls.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-strazzabosco-srls.md
-published: true
 url: strazzabosco-srls/index.html
 _type: WebPage
 
