@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T09:13:46.042Z'
-dateModified: '2016-01-15T09:13:42.342Z'
+datePublished: '2016-01-15T09:13:46.407Z'
+dateModified: '2016-01-15T09:13:46.042Z'
 title: Autodesk Inventor
 author: []
 sourcePath: _posts/2016-01-12-autodesk-inventor.md
