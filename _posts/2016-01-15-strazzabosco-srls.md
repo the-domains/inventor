@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T10:32:02.670Z'
-dateModified: '2016-01-16T10:31:55.865Z'
+datePublished: '2016-01-16T10:32:03.152Z'
+dateModified: '2016-01-16T10:32:02.670Z'
 title: Strazzabosco Srls
 author: []
 sourcePath: _posts/2016-01-15-strazzabosco-srls.md
