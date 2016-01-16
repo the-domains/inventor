@@ -4,8 +4,15 @@
         <description><![CDATA[Inventor News]]></description>
         <link>http://inventor.strazzabosco.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 10:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 10:42:42 GMT</lastBuildDate>
         <atom:link href="http://inventor.strazzabosco.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tasti Rapidi]]></title>
+            <description><![CDATA[<article><h1>Tasti Rapidi</h1><p>Si sta facendo di tutto per rendere maggiormente fruibile il software, ma chi ha esperienza di produzione giornaliera sa che la velocità data dalle cosiddette scorciatoie di tastiera, è praticamente impareggiabile. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72fd294aca3a49849494f37cc3720c261877bcb7.png"></article>]]></description>
+            <link>http://inventor.strazzabosco.com/tasti-rapidi/index.html</link>
+            <guid isPermaLink="false">d76d5fb8-ad0e-4091-9e28-95e4f1f7967a</guid>
+            <pubDate>Sat, 16 Jan 2016 10:42:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inventor 2016 R3]]></title>
             <description><![CDATA[<article><h1></h1><h2>Publish Designs in IFC</h2><p>Altra piccola ma interessante funzionalità introdotta per migliorare la comunicazione in ambito BIM.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b934fcc39d1c808162b972920f9e07948a124c4f.png"></article>]]></description>
