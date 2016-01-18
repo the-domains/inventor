@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T05:13:51.978Z'
-dateModified: '2016-01-18T05:13:51.873Z'
+datePublished: '2016-01-18T05:13:51.946Z'
+dateModified: '2016-01-18T05:13:49.324Z'
 title: Tasti Rapidi
 author: []
 sourcePath: _posts/2016-01-16-tasti-rapidi.md
