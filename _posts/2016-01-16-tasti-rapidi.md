@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T11:54:46.403Z'
-dateModified: '2016-01-17T11:54:42.817Z'
+datePublished: '2016-01-18T05:09:04.018Z'
+dateModified: '2016-01-18T05:09:01.562Z'
 title: Tasti Rapidi
 author: []
 sourcePath: _posts/2016-01-16-tasti-rapidi.md
@@ -27,9 +27,10 @@ _type: Article
 
 Si sta facendo di tutto per rendere maggiormente fruibile il software, ma chi ha esperienza di produzione giornaliera sa che la velocità data dalle cosiddette scorciatoie di tastiera, è praticamente impareggiabile. 
 
-Autodesk è sempre stata attenda ad offrire software semplici ma soprattutto produttivi. Un esempio è proprio Autodesk Inventor. Ecco un po' di scorciatoie che possono essere utili nel lavoro di tutti i giorni.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72cf37e1-4f27-4294-b588-41bc55d046fb.jpg)
+Autodesk è sempre stata attenda ad offrire software semplici ma soprattutto produttivi. Un esempio è proprio Autodesk Inventor. Ecco un po' di scorciatoie che possono essere utili nel lavoro di tutti i giorni. Tra le più interessanti propongo:
 
-Articolo originale Autodesk : [http://www.autodesk.com/shortcuts/inventor][0]
+## Dentro allo schizzo
+
+molti altri ancora nell'articolo originale Autodesk : [http://www.autodesk.com/shortcuts/inventor][0]
 
 [0]: http://www.autodesk.com/shortcuts/inventor
