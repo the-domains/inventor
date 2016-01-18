@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T05:09:04.112Z'
-dateModified: '2016-01-18T05:09:01.562Z'
+datePublished: '2016-01-18T05:13:51.873Z'
+dateModified: '2016-01-18T05:13:49.324Z'
 title: Tasti Rapidi
 author: []
 sourcePath: _posts/2016-01-16-tasti-rapidi.md
@@ -31,6 +31,13 @@ Autodesk è sempre stata attenda ad offrire software semplici ma soprattutto pro
 
 ## Dentro allo schizzo
 
-molti altri ancora nell'articolo originale Autodesk : [http://www.autodesk.com/shortcuts/inventor][0]
+* **E - **EXTRUDE / Lancia il comando Estrudi 
+* **H** - HOLE / Lancia il comando Foro 
+* **R** - REVOLVE / Lancia il comando Rivoluzione 
+* **F7** - SLICE GRAPHICS / Taglio grafico della parte di materiale anteriore allo schizzo. 
+* **F8** - SHOW ALL CONSTRAINTS / Visualizza tutti i vincoli 
+* **F9** - HIDE ALL CONSTRAINTS / Nasconde tutti i vincoli
+
+la lista è lunghissima e la potrete trovare nell'articolo originale Autodesk : [http://www.autodesk.com/shortcuts/inventor][0]
 
 [0]: http://www.autodesk.com/shortcuts/inventor
