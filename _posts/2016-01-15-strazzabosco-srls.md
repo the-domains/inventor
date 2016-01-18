@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T05:16:20.081Z'
-dateModified: '2016-01-18T05:16:19.965Z'
-title: Chi siamo
+datePublished: '2016-01-18T05:17:33.380Z'
+dateModified: '2016-01-18T05:17:30.581Z'
+title: Strazzabosco Srls
 author: []
 sourcePath: _posts/2016-01-15-strazzabosco-srls.md
 published: true
@@ -22,9 +22,7 @@ url: strazzabosco-srls/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c9f1ff7-9cde-41e3-9d8a-9667757e2588.png)
-
-# Chi siamo
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/345c3c3e5c84e293aa5a35b762452cad00454adb.png)
 
 ## Chi siamo
 
